@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Football",
+        "description": "A team sport played between two teams of eleven players with a round ball that may not be touched or carried with the hands or arms during play.",
+        "link":"https://en.wikipedia.org/wiki/Football"
+    },
+    {
+        "id": 2,
+        "name": "Cricket",
+        "description": "A bat-and-ball game played between two teams of eleven players on a field with a 22-yard pitch in the center.",
+        "link":"https://en.wikipedia.org/wiki/Cricket"
+    },
+    {
+        "id": 3,
+        "name": "Hockey",
+        "description": "A team sport played on ice (ice hockey) or on a field (field hockey) where teams use sticks to hit a puck or ball into the opponent's goal.",
+        "link":"https://en.wikipedia.org/wiki/Hockey"
+        
+    },
+    {
+        "id": 4,
+        "name": "Basketball",
+        "description": "A team sport where two teams of five players each try to score points by throwing a ball through the opposing team's hoop.",
+        "link":"https://en.wikipedia.org/wiki/Basketball"
+        
+    },
+    {
+        "id": 5,
+        "name": "Volleyball",
+        "description": "A team sport in which two teams of six players each are separated by a net and attempt to score points by hitting a ball over the net and into the opponent's court.",
+        "link":"https://en.wikipedia.org/wiki/Volleyball"
+        
+    },
+    {
+        "id": 6,
+        "name": "Tennis",
+        "description": "A racket sport played between two players (singles) or two teams of two players each (doubles), where players use a racket to hit a ball over a net into the opponent's court.",
+        "link":"https://en.wikipedia.org/wiki/Tennis"
+        
+    }
+]

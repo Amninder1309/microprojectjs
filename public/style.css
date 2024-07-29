@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F0F7D4;
+    min-height: 100vh;
+    height: 100%;
+}
+
+h1, h2 {
+    color: #4424D6;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav {
+    padding: 0;
+    background-color: #4424D6;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content:flex-end;
+    align-items: center;
+}
+
+nav p{
+    margin-right: auto;
+    margin-left: 10px;
+    color: #B2D732;
+    font-size: large;
+    font-weight: bold;
+}
+
+nav a {
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-decoration: none;
+    color: aqua;
+    background-color: #4424D6;
+
+}
+
+  .cen{
+    text-align: center;
+}
+
+.restbody{
+        padding: 1rem;
+
+}
+.cont{
+    margin: 1rem 0;
+    padding: 2rem;
+    background-color: #FC600A;
+    
+}
+
+.cont p{
+    padding: 10px;
+}
+
+.fetch-button{
+    
+        background-color: #FC600A; 
+        color: white; 
+        border: none; 
+        margin-top: 10px;
+        padding: 10px 20px; 
+        font-size: 16px; 
+        border-radius: 5px;
+        cursor: pointer; 
+           
+}
+
+.fetch-button:active{
+    color: #4424D6;
+}
+
+#data-container{
+    padding: 1rem;
+}
+
+dl {
+    margin: 0;
+    padding: 0;
+    border: 4px solid #ddd;
+    border-radius: 5px;
+}
+
+
+dt {
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+dd {
+    margin: 0 0 10px;
+    margin-left: 2rem;
+}
+
+
+dd a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+dd a:hover {
+    text-decoration: underline;
+}
+
+.display-container{
+    margin: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 10px;
+    
+    margin-top: 5px;
+    margin-bottom: 15px;
+    resize: vertical;
+}
+
+nav a:hover{
+    color: #FC600A;
+    background-color: beige;
+}

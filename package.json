@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"No Test Specified\""
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "name": "microprojectjson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
